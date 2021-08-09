@@ -1,0 +1,22 @@
+
+a{
+    font-family: Mulish;
+    font-weight: 700;
+    font-size: 1.8 rem;
+    line-height: 3.33;
+    display: block;
+    background-color: white;
+    color: #458FF6;
+    text-align: center;
+    text-decoration: none;
+}
+a{
+    width: 200px;
+    height: 60px;
+    border-radius: 55px;
+    border: 1px;
+    border-color: #458FF6;
+    margin-top: 69px;
+    margin-left: auto;
+    margin-right: auto;
+}

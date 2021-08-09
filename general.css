@@ -1,0 +1,26 @@
+
+@import url(reset.css);
+@import url(text.css);
+@import url(cards.css);
+@import url(card.css);
+@import url(button.css);
+
+@font-face {
+    @import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300;600;700&display=swap');
+}
+
+html,
+body {
+    max-width: 100%;
+    font-size: 10px;
+    margin-left: 0;
+    margin-right: 0;
+}
+*{
+    box-sizing: border-box;
+}
+.conteiner{
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -1,0 +1,40 @@
+.card li{
+    width: 351px;
+    height: 512px;
+    background-color: white;
+    border-radius: 20px;
+    padding: 20px;
+    margin-bottom: 30px;
+    margin-right: 10px;
+    float: left;
+    display: block;
+}
+li h3{
+    font-family: Mulish, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 2.1rem;
+    line-height: 1.52;
+    color: black;
+}
+li p{
+    font-family: Mulish, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 1.6rem;
+    line-height: 1.75;
+    color: #7d7987;
+}
+.clearfix::after{
+    content: '';
+    clear: both;
+    display: block;
+}
+.card a{
+    font-family: Mulish, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 1.7rem;
+    line-height: 1.64;
+    color:  #4089ED;
+}
